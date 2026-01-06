@@ -1,2 +1,2 @@
 # Java-Calculator-SALMA-EL-MCHACHTY
-rojet étudiant réalisé en Java Swing avec NetBeans : conception d’une calculatrice graphique intégrant les opérations de base. Une excellente expérience pour pratiquer la logique de programmation, l’event handling et le développement d’interfaces utilisateur.
+Projet académique en ingénierie logicielle axé sur la conception et l’implémentation d’une application Java Swing, intégrant une interface graphique interactive et une logique de calcul robuste. Ce travail reflète mon intérêt pour le développement d’applications logicielles fiables et bien structurées.
